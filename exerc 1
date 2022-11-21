@@ -1,0 +1,25 @@
+Algoritmo "semnome"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Antonio Carlos Nicolodi 
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 21/11/2022
+Var
+// Seção de Declarações das variáveis 
+sal1:real
+nomef:caractere
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+escreval("Digite o nome do funcionário")
+leia(nomef)
+escreval("Digite o salário")
+leia(sal1)
+escreva("o funcionário " ,nomef, " tem um salário de",sal1)
+
+
+
+
+
+
+
+Fimalgoritmo
